@@ -10,7 +10,7 @@ Life should be colorful and richful.
 
 + 先来个长颈鹿
 
-![长颈鹿](https://github.com/WaSheep/Drawing/blob/master/S61122-151757(1).jpg)
+![长颈鹿](https://github.com/WaSheep/Drawing/blob/master/S61122-151856(1).jpg)
 
 http://m.youku.com/video/id_XNzU5ODc3NTM2.html?from=s7.8-1.2&spm=a2h0k.8191393.bodydiv.5!3~5!110~A
 
